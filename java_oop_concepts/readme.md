@@ -81,7 +81,7 @@ Each program is separate, well-commented, and easy to understand.
 
 ---
 
-## 🎭 1. Polymorphism
+## 🎭 3. Polymorphism
 
 ### 🔍 Definition
 Polymorphism means **one action behaving in multiple ways**, depending on object or input type.
@@ -103,7 +103,7 @@ Polymorphism means **one action behaving in multiple ways**, depending on object
 
 ---
 
-## 🧬 2. Abstraction
+## 🧬 4. Abstraction
 
 ### 🔍 Definition
 Abstraction focuses on **what an object does** instead of **how it does it** by hiding implementation details.
