@@ -69,3 +69,71 @@ Person: Maya
 Student roll: 12
 
 
+
+# 🚀 Java OOP Concepts — Polymorphism & Abstraction
+
+This repository contains simple and beginner-friendly Java programs demonstrating two core Object-Oriented Programming (OOP) concepts:
+
+- **Polymorphism**
+- **Abstraction**
+
+Each program is separate, well-commented, and easy to understand.
+
+---
+
+## 🎭 1. Polymorphism
+
+### 🔍 Definition
+Polymorphism means **one action behaving in multiple ways**, depending on object or input type.
+
+### 🔁 Types of Polymorphism in Java
+
+| Type | Description | Achieved By |
+|------|-------------|--------------|
+| **Compile-time Polymorphism** | Method resolved at compile time | Method Overloading |
+| **Runtime Polymorphism** | Method resolved at runtime | Method Overriding |
+
+### 📁 Program Files
+
+| File Name | Description |
+|------------|-------------|
+| `Polymorphism_Overloading.java` | Demonstrates method overloading |
+| `Polymorphism_Overriding.java` | Demonstrates method overriding |
+| `Polymorphism_DynamicDispatch.java` | Demonstrates dynamic method dispatch |
+
+---
+
+## 🧬 2. Abstraction
+
+### 🔍 Definition
+Abstraction focuses on **what an object does** instead of **how it does it** by hiding implementation details.
+
+### 🧠 Purpose
+- Reduce complexity  
+- Improve security  
+- Enhance modular development  
+
+### 🔧 Ways to Achieve Abstraction in Java
+
+| Mechanism | Level of Abstraction | Syntax |
+|------------|----------------------|---------|
+| **Abstract Class** | Partial | `abstract class ClassName` |
+| **Interface** | Full | `interface InterfaceName` |
+
+### 📁 Program Files
+
+| File Name | Description |
+|------------|-------------|
+| `Abstraction_AbstractClass.java` | Demonstrates abstraction using abstract class |
+| `Abstraction_Interface.java` | Demonstrates abstraction using interface |
+| `Abstraction_MixExample.java` | Combines abstract class & interface usage |
+
+---
+
+## ▶️ How to Compile & Run a Program
+```bash
+javac FileName.java
+java FileName
+
+
+
