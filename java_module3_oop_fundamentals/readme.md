@@ -45,8 +45,8 @@ Introduces class creation, object creation, and accessing attributes.
 
 **🖥 Expected Output:**
 
-#Brand: Toyota
-#Year: 2022
+Brand: Toyota <br> 
+Year: 2022 <br> 
 
 
 ---
@@ -57,7 +57,7 @@ Shows how objects call methods and modify instance variables.
 
 **🖥 Expected Output:**
 
-Student Name: Aisha
+Student Name: Aisha <br> 
 
 
 ---
@@ -67,8 +67,8 @@ Student Name: Aisha
 Demonstrates how different objects hold separate data even when using the same class.
 
 **🖥 Expected Output:**
-Name: John, Salary: 45000.0
-Name: Sara, Salary: 52000.0
+Name: John, Salary: 45000.0 <br> 
+Name: Sara, Salary: 52000.0 <br> 
 
 
 ---
@@ -79,8 +79,8 @@ Shows how multiple reference variables can point to the same object, affecting s
 
 **🖥 Expected Output:**
 
-b1 Title: Advanced Java
-b2 Title: Advanced Java
+b1 Title: Advanced Java <br> 
+b2 Title: Advanced Java <br> 
 
 
 ---
@@ -91,8 +91,8 @@ Simulates a simple bank account where user can open an account, deposit money an
 
 **🖥 Expected Output:**
 
-Account Holder: Aisha
-Current Balance: 3500.0
+Account Holder: Aisha <br> 
+Current Balance: 3500.0 <br> 
 
 
 ---
@@ -103,12 +103,12 @@ Represents online shopping products with price and rating.
 
 **🖥 Expected Output:**
 
-Product: Laptop
-Price: ₹58000.0
-Rating: ⭐ 4.5
-Product: Wireless Earbuds
-Price: ₹2499.0
-Rating: ⭐ 4.2
+Product: Laptop <br> 
+Price: ₹58000.0 <br> 
+Rating: ⭐ 4.5 <br> 
+Product: Wireless Earbuds <br> 
+Price: ₹2499.0 <br> 
+Rating: ⭐ 4.2 <br> 
 
 
 ---
@@ -118,9 +118,9 @@ Rating: ⭐ 4.2
 Models a gym membership registration system.
 
 **🖥 Expected Output:**
-Member Name: Mohammed Talha
-Membership Type: Premium
-Duration: 12 months
+Member Name: Mohammed Talha <br> 
+Membership Type: Premium <br> 
+Duration: 12 months <br> 
 
 ---
 
@@ -130,9 +130,9 @@ Creates a movie ticket using object data to print booking details.
 
 **🖥 Expected Output:**
 
-🎬 Movie: Avatar 3
-🕒 Show Time: 7:30 PM
-💺 Seat No: 12
+🎬 Movie: Avatar 3 <br> 
+🕒 Show Time: 7:30 PM <br> 
+💺 Seat No: 12 <br> 
 
 
 ---
@@ -142,9 +142,9 @@ Creates a movie ticket using object data to print booking details.
 Represents library book details including availability status.
 
 **🖥 Expected Output:**
-Title: Rich Dad Poor Dad
-Author: Robert Kiyosaki
-Available: Yes
+Title: Rich Dad Poor Dad <br> 
+Author: Robert Kiyosaki <br> 
+Available: Yes <br> 
 
 ---
 
