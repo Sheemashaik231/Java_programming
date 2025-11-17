@@ -45,5 +45,5 @@ Introduces class creation, object creation, and accessing attributes.
 
 **🖥 Expected Output:**
 
-Brand: Toyota/
-Year: 2022/
+#Brand: Toyota
+#Year: 2022
