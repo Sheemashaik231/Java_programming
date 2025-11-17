@@ -47,3 +47,112 @@ Introduces class creation, object creation, and accessing attributes.
 
 #Brand: Toyota
 #Year: 2022
+
+
+---
+
+### **2️⃣ ClassObject_MethodCall.java**
+**📌 Description:**  
+Shows how objects call methods and modify instance variables.
+
+**🖥 Expected Output:**
+
+Student Name: Aisha
+
+
+---
+
+### **3️⃣ ClassObject_MultipleObjects.java**
+**📌 Description:**  
+Demonstrates how different objects hold separate data even when using the same class.
+
+**🖥 Expected Output:**
+Name: John, Salary: 45000.0
+Name: Sara, Salary: 52000.0
+
+
+---
+
+### **4️⃣ ClassObject_ReferenceExample.java**
+**📌 Description:**  
+Shows how multiple reference variables can point to the same object, affecting shared data.
+
+**🖥 Expected Output:**
+
+b1 Title: Advanced Java
+b2 Title: Advanced Java
+
+
+---
+
+### **5️⃣ RealWorld_BankAccount.java**
+**📌 Description:**  
+Simulates a simple bank account where user can open an account, deposit money and view balance.
+
+**🖥 Expected Output:**
+
+Account Holder: Aisha
+Current Balance: 3500.0
+
+
+---
+
+### **6️⃣ RealWorld_ProductStore.java**
+**📌 Description:**  
+Represents online shopping products with price and rating.
+
+**🖥 Expected Output:**
+
+Product: Laptop
+Price: ₹58000.0
+Rating: ⭐ 4.5
+Product: Wireless Earbuds
+Price: ₹2499.0
+Rating: ⭐ 4.2
+
+
+---
+
+### **7️⃣ RealWorld_GymMember.java**
+**📌 Description:**  
+Models a gym membership registration system.
+
+**🖥 Expected Output:**
+Member Name: Mohammed Talha
+Membership Type: Premium
+Duration: 12 months
+
+---
+
+### **8️⃣ RealWorld_MovieTicket.java**
+**📌 Description:**  
+Creates a movie ticket using object data to print booking details.
+
+**🖥 Expected Output:**
+
+🎬 Movie: Avatar 3
+🕒 Show Time: 7:30 PM
+💺 Seat No: 12
+
+
+---
+
+### **9️⃣ RealWorld_LibraryBook.java**
+**📌 Description:**  
+Represents library book details including availability status.
+
+**🖥 Expected Output:**
+Title: Rich Dad Poor Dad
+Author: Robert Kiyosaki
+Available: Yes
+
+---
+
+## ▶️ How To Run Any File
+
+```bash
+javac FileName.java
+java FileName
+
+
+
