@@ -36,11 +36,11 @@ All programs are fully **interactive (take input using Scanner)** and focus on c
 ### 2️⃣ Print Name, Age, and Favorite Language
 **Description:** Reads and displays personal details using variables and Scanner.  
 **Output:**
-Enter your name: Talha
+Enter your name: sheema
 Enter your age: 20
 Enter your favorite programming language: Java
 
-Name: Talha
+Name: sheema
 Age: 20
 Favorite Language: Java
 
@@ -120,12 +120,12 @@ Average = 30.0
 ### 🔟 Student Class and Display Info
 **Description:** Uses a class `Student` to store and display student details using object-oriented programming.  
 **Output:**
-Enter student name: Talha
+Enter student name: sheema
 Enter student age: 20
 Enter student marks: 88.5
 
 --- Student Details ---
-Name: Talha
+Name: sheema
 Age: 20
 Marks: 88.5
 
