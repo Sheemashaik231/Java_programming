@@ -36,11 +36,11 @@ All programs are fully **interactive (take input using Scanner)** and focus on c
 ### 2️⃣ Print Name, Age, and Favorite Language
 **Description:** Reads and displays personal details using variables and Scanner.  
 **Output:**
-Enter your name: sheema
+Enter your name: Sheema
 Enter your age: 20
 Enter your favorite programming language: Java
 
-Name: sheema
+Name: Sheema
 Age: 20
 Favorite Language: Java
 
